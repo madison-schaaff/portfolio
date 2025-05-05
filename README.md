@@ -165,7 +165,7 @@ To then make sure your portfolio is published:
 <img src="assets/images/settings.png" width="600" />
 
 1. Go to your repository's Settings
-2. Choose the "Pages" tab and choose Branch `main`
+2. Choose the "Pages" tab under "Build and Deployment", click "Deploy from a branch" and choose `main`
 3. Don't forget to save this setting
 
 ### Your Published Portfolio Site
