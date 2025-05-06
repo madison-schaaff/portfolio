@@ -160,13 +160,18 @@ In VS Code or Codespaces, you can use the Git interface inside the development e
 
 ### Set Up GitHub Pages
 
-To then make sure your portfolio is published:
+Follow these steps to publish your portfolio:
 
-<img src="assets/images/settings.png" width="600" />
+1. In your `_config.yml` file, set the `base_url` to your portfolio repo name (e.g., `"/spring-2025-portfolio-Hoffman/"`)
+
 
 1. Go to your repository's Settings
-2. Choose the "Pages" tab under "Build and Deployment", click "Deploy from a branch" and choose `main`
-3. Don't forget to save this setting
+<img src="assets/images/settings.png" width="600" />
+
+3. Choose the "Pages" tab under "Build and Deployment", verify that "Source" says "Deploy from a branch" and under "Branch" choose `main` and `/ (root)`
+<img src="assets/images/pages-settings.png" width="600" />
+
+4. Don't forget to save this setting at the bottom of the page.
 
 ### Your Published Portfolio Site
 Your portfolio should be live at `https://cornell-mae-ug.github.io/<your-repo>/`, where `your-repo` is this repository's name, probably `portfolio-<your-github-username>`. This URL is also shown in your Pages setting tab.
