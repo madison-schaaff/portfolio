@@ -54,11 +54,13 @@ GitHub Pages, the framework powering the portfolio system, uses [Jekyll](https:/
 
 ### Name
 
-Change references to "Your Name" to your actual name in the following files:
+Change references to `<Your Name>` to your actual name in the following files:
 - `_config.yml`
 - `index.md`
 - `projects.md`
 - `cv.md`
+
+No need to keep the `< >` brackets. They are just there to indicate placeholders.
 
 ### Homepage
 - `index.md`: Replace the placeholder text with a welcome or pitch paragraph about yourself.
@@ -177,6 +179,8 @@ Follow these steps to publish your portfolio:
 Your portfolio should be live at `https://cornell-mae-ug.github.io/<your-repo>/`, where `your-repo` is this repository's name, probably `portfolio-<your-github-username>`. This URL is also shown in your Pages setting tab.
 
 :tada:
+
+**You can now replace this template README file with a more informative text**, but check out additional tips and tricks below.
 
 ### More Control over Publishing
 
