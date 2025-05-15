@@ -1,16 +1,15 @@
 ---
 layout: default
-title: <Your Name>
+title: Madison Schaaff
 ---
 
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/headshotjpg" | relative_url }}){: class="profile-image"}
 
- 
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Madison Schaaff, and I am a third-year student at Cornell University majoring in Mechanical Engineering with a minor in Aerospace Engineering. My academic background has given me a strong foundation in the principles of dynamics, thermodynamics, fluid mechanics, and structural analysis. Beyond the classroom, I’m deeply passionate about advancing transportation technologies — particularly those that push the boundaries of what’s possible in both terrestrial and extraterrestrial environments.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+In addition to my interest in transportation systems, I’m driven by the challenge of revolutionizing space structures and aerospace technology. I aspire to contribute to the design and development of next-generation spacecraft, deployable systems, and sustainable  infrastructure that can support long-term space exploration.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
