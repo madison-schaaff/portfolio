@@ -3,6 +3,7 @@ layout: default
 title: Madison Schaaff - Portfolio
 permalink: /projects/
 ---
+
 <div class="gallery-container">
 <div class="project-gallery">
    {% for project in site.projects %}

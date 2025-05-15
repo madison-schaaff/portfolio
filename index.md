@@ -6,7 +6,7 @@ title: Madison Schaaff
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/headshot.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/headshot.jpeg" | relative_url }}){: class="profile-image"}
 
 My name is Madison Schaaff, and I am a third-year student at Cornell University majoring in Mechanical Engineering with a minor in Aerospace Engineering. My academic background has given me a strong foundation in the principles of dynamics, thermodynamics, fluid mechanics, and structural analysis. Beyond the classroom, I’m deeply passionate about advancing transportation technologies — particularly those that push the boundaries of what’s possible in both terrestrial and extraterrestrial environments.
 
