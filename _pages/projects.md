@@ -2,7 +2,8 @@
 layout: default
 title: Madison Schaaff - Portfolio
 permalink: /projects/
----
+--
+-
 
 ---
 layout: project
