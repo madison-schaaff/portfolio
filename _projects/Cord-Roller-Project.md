@@ -6,7 +6,7 @@ technologies: [Autodesk Fusion]
 image: /assets/images/Stone.jpg
 ---
 
-For our MAE 2250 project, our team designed, modeled, and prototyped a Cord Cubby—a compact and user-friendly device aimed at solving the common problem of tangled and disorganized cords. The Cord Cubby is designed to neatly spool various types of cords such as phone chargers, earphones, and USB cables—into a clean and secure enclosure, making storage and transport easier and more aesthetic.
+For our MAE 2250 project, our team designed, modeled, and prototyped a Cord Cubby: a compact and user-friendly device aimed at solving the common problem of tangled and disorganized cords. The Cord Cubby is designed to neatly spool various types of cords such as phone chargers, earphones, and USB cables into a clean and secure enclosure, making storage and transport easier and more aesthetic.
 
 ### Design & Functionality
 
