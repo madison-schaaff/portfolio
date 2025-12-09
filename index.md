@@ -12,4 +12,4 @@ My name is Madison Schaaff, and I am a fourth-year student at Cornell University
 
 In addition to my interest in ground technology, I’m driven by the challenge of revolutionizing space structures and aerospace technology. I aspire to contribute to the design and development of next-generation spacecraft, deployable systems, and sustainable  infrastructure that can support long-term space exploration.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">resume</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>.
