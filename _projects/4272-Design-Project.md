@@ -10,13 +10,13 @@ image: /assets/images/Stone.jpg
 This project focused on designing, analyzing, and experimentally testing a small-scale horizontal-axis wind turbine blade optimized for operation at low Reynolds numbers. Using principles from aerodynamics, blade element momentum theory (BEMT), and structural analysis, our team developed a custom blade geometry intended to outperform the baseline blade used in Lab 4. The final design emphasized aerodynamic efficiency, manufacturability, and structural reliability while remaining within strict experimental and equipment constraints.
 
 ### Design Objectives & Constraints
-Objectives
+Objectives:
 - Maximize aerodynamic efficiency at low Reynolds numbers.
 - Improve power output compared to the Lab 4 baseline at the target operating RPM.
 - Ensure structural reliability and avoid failure during high-speed operation.
 - Maintain a smooth, manufacturable blade geometry compatible with the existing hub.
 
-Constraints
+Constraints:
 - Maximum blade length: 6 in
 - Minimum axial clearance: < 2 in from the nacelle
 - Equipment limits: RPM < 3500, Torque < 3.5 N·cm, wind tunnel speed < 15 Hz (≈9.8 m/s)
@@ -26,7 +26,7 @@ Constraints
 ### Hypotheses & Assumptions
 We expected that a blade with high lift-to-drag ratio, moderate taper, and appropriate geometric twist would maintain near-optimal angle of attack along the span, resulting in peak aerodynamic and power performance near the design RPM.
 
-Assumptions
+Assumptions:
 - Incoming flow is steady, uniform, and aligned with the rotor axis.
 - Torque brake behavior is consistent for gradually increasing loads.
 - Mechanical losses are small and effectively constant.
