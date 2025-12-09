@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Cord Roller Project
+title: MAE 2250: Cord Roller Project
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/Stone.jpg
