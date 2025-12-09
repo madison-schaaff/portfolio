@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Madison Schaaff - Curriculum Vitae
-permalink: /cv/
+title: Madison Schaaff - Resume
+permalink: /resume/
 ---
-## Curriculum Vitae
+## Resume
 
-[Download my CV]({{ "/assets/resume.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/resume.pdf" | relative_url }}) in PDF format.
