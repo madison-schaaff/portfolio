@@ -1,78 +1,39 @@
 ---
 layout: project
 title: MAE 4272 Wind Turbine Blade Design Project
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+description: Advanced CAD + Aerodynamics Project
+technologies: [Autodesk Fusion, MATLAB]
 image: /assets/images/blade.jpg
 ---
 
-### Project Summary
-This project focused on designing, analyzing, and experimentally testing a small-scale horizontal-axis wind turbine blade optimized for operation at low Reynolds numbers. Using principles from aerodynamics, blade element momentum theory (BEMT), and structural analysis, our team developed a custom blade geometry intended to outperform the baseline blade used in Lab 4. The final design emphasized aerodynamic efficiency, manufacturability, and structural reliability while remaining within strict experimental and equipment constraints.
-
-### Design Objectives & Constraints
-Objectives:
-- Maximize aerodynamic efficiency at low Reynolds numbers.
-- Improve power output compared to the Lab 4 baseline at the target operating RPM.
-- Ensure structural reliability and avoid failure during high-speed operation.
-- Maintain a smooth, manufacturable blade geometry compatible with the existing hub.
-
-Constraints:
-- Maximum blade length: 6 in
-- Minimum axial clearance: < 2 in from the nacelle
-- Equipment limits: RPM < 3500, Torque < 3.5 N·cm, wind tunnel speed < 15 Hz (≈9.8 m/s)
-- Blade must integrate with the hub attachment piece
-- Maximum bending stress must remain < 44 MPa (flexural strength)
-
-### Hypotheses & Assumptions
-We expected that a blade with high lift-to-drag ratio, moderate taper, and appropriate geometric twist would maintain near-optimal angle of attack along the span, resulting in peak aerodynamic and power performance near the design RPM.
-
-Assumptions:
-- Incoming flow is steady, uniform, and aligned with the rotor axis.
-- Torque brake behavior is consistent for gradually increasing loads.
-- Mechanical losses are small and effectively constant.
-- BEMT provides valid predictions in the low-Re regime.
+### Project Overview
+As part of MAE 4272, our team was tasked with designing a custom wind-turbine blade capable of outperforming the baseline blade from Lab 4. The goal was to produce a geometry that delivered higher power output at low Reynolds numbers while remaining structurally reliable and compatible with the existing hub and test hardware. This project combined aerodynamic modeling, CAD development, and wind-tunnel validation (see **Figure 3** for the experimental setup).
 
 ### Design Process
-Our design began by selecting operating parameters of Ur = 5 m/s, λ_opt = 6, and an optimal rotational speed of Ω = 1880 RPM. Airfoil tools data indicated a peak performance at α = 7°, with:
-- Max CL/CD = 66.5
-- CL = 1.37
+We began by selecting design conditions of 5 m/s wind speed and a target operating speed near 1880 RPM. Using Blade Element Momentum Theory (BEMT) and airfoil performance data, we iterated on blade twist, taper, and chord distribution to maintain an efficient angle of attack across the span.  
+**My primary contribution was creating the full CAD model of the system**, including the custom airfoil, blade geometry, and hub interface. The final manufacturable design is shown in **Figure 1**, which highlights the aerodynamic taper and root attachment features used during testing.
 
-Using Blade Element Momentum Theory, we:
-- Calculated relative velocity, inflow angle, and angle of attack for each blade element.
-- Interpolated airfoil lift and drag coefficients.
-- Computed element-level lift, drag, thrust, torque, and contributions to bending stress.
-- Integrated along the blade span to estimate total power production and structural safety factor.
-- Evaluated performance over a range of wind speeds using a Weibull distribution model.
-The resulting blade geometry met all design and structural requirements and was manufactured via 3D printing.
+### Testing Summary
+We tested the finished blade in the MAE wind tunnel using a torque brake and DAQ system to measure torque, RPM, and electrical power. During testing, **I operated the torque brake by adjusting the voltage to sweep through the operating range and recorded corresponding data for power-curve generation**. The resulting power curve, shown in **Figure 2**, demonstrates that our custom blade achieved a higher peak power than the Lab 4 baseline.
 
-### Experimental Protocol
-We planned to collect power curve data for wind speeds from 3–6 m/s using the Lab 4 DAQ system and torque brake. Because the blade was designed for 1880 RPM, we focused on rotational speeds near that target. Safety protocols included strict RPM caps, monitoring for vibrations or unusual sounds, and shutting down the tunnel before adjusting the torque brake.
+### My Contribution
+Across the project, I was responsible for:
+- **All CAD development**, including airfoil construction, blade geometry, and hub/attachment modeling  
+- Preparing manufacturing-ready files and verifying geometric and structural constraints  
+- **Operating the torque brake** during wind-tunnel tests and recording experimental data  
+- Organizing raw data for power-curve generation and comparison with BEMT predictions  
 
-In practice, the blade experienced challenges initiating rotation, and in some cases stalled before reaching the target RPM. Limited lab time further constrained data collection.
+---
 
-### Results
-- The blade showed higher maximum power output than the Lab 4 baseline.
-- The structure remained stable with no observed failures.
-- Due to startup issues and limited testing time, the collected data exhibited variability.
-- A Weibull-weighted performance estimate yielded an expected power of 0.72 W, corresponding to an annual output of 6.3 kWh.
+## Figures
 
-### Reflection
-What Went Well:
-- Measurable improvement in peak power generation versus the baseline.
-- Successful manufacturing and structural performance.
+**Figure 1. CAD Model of Final Blade**  
+![CAD Model](/assets/images/blade_cad.jpg)
 
-Unexpected Outcomes:
-- Actual power was significantly lower than predicted BEMT values.
-- Wind tunnel flow often did not settle before data collection, causing inconsistent results.
+**Figure 2. Measured Power Curve Compared to Design Point**  
+![Power Curve](/assets/images/power_plot.jpg)
 
-Challenges:
-- Time constraints limited the number of trials and prevented retesting after modifications.
-- Startup and stall behavior proved more sensitive than expected at low Reynolds numbers.
+**Figure 3. Wind Tunnel Test Setup with Custom Blade Installed**  
+![Wind Tunnel Photo](/assets/images/tunnel_photo.jpg)
 
-### Next Steps
-To further refine the design and improve predictive accuracy, the next steps include:
-- Collecting a larger dataset across multiple days to eliminate transient turbulence effects.
-- Investigating root causes of startup stall (twist distribution, airfoil choice, or hub effects).
-- Re-optimizing the blade considering real-world startup behavior rather than ideal BEMT predictions.
-- Incorporating dynamic stall models or CFD to improve predictive fidelity.
 
