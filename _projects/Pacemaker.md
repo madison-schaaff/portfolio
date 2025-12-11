@@ -3,7 +3,7 @@ layout: project
 title: MAE 3260 Pacemaker Control Systems Modeling
 description: Closed-Loop System Modeling, Control Design, and MATLAB Analysis
 technologies: [MATLAB, Laplace Transform Methods, Control Systems]
-image: /assets/images/pace.jpg
+image: /assets/images/pacemaker.jpg
 ---
 
 ### Project Overview
