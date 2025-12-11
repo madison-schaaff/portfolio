@@ -43,6 +43,7 @@ This approach reduced complexity, improved reliability, and allowed the team to 
 
 **Figure 2. CAD Model of Final Robot**  
 ![robotcad](/assets/images/robotcad.jpg)
+
 ---
 
 ### Control Strategy & Robot Behavior
@@ -59,6 +60,7 @@ This behavior enabled consistent border detection and predictable sweeping motio
 
 **Figure 3. Strategy Flowchart**  
 ![flowchart](/assets/images/flowchart.jpg)
+
 ---
 
 ### Iterative Design Process
