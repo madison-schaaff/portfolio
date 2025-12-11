@@ -3,6 +3,7 @@ layout: project
 title: MAE 4300 Boeing 737 Max Ethical Analysis
 description: A comprehensive ethical analysis of the Boeing 737 MAX crisis, examining engineering decisions, regulatory breakdowns, and sociotechnical factors that contributed to the aircraft’s failures. Includes evaluation of stakeholder impacts, responsibility distribution, and lessons for future engineering practice.
 image: /assets/images/boeing.jpg
+technologies: [Microsoft Excel]
 ---
 ### Overview
 For my MAE 4300 coursework, I completed a comprehensive ethical and engineering analysis of the Boeing 737 MAX crisis. This project examined how technical design choices, organizational pressures, certification processes, and sociotechnical interactions contributed to the failures that led to the Lion Air Flight 610 and Ethiopian Airlines Flight 302 crashes. Using a structured ethics framework, I evaluated material facts, stakeholder interests, ASME ethical canons, and the constraints that shaped Boeing’s decisions. The goal of this work was to identify root causes and extract lessons that can prevent similar failures in future aerospace systems.
