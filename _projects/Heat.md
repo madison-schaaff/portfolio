@@ -1,0 +1,118 @@
+---
+layout: project
+title: ANSYS Heat Sink Analysis – LED Thermal Management
+description: Finite Element Simulation, Heat Transfer Analysis, Thermal Optimization
+technologies: [ANSYS Mechanical, FEA, Convection Modeling]
+image: /assets/images/heatsink_temp.png
+---
+
+### Project Overview
+For this individual project in heat transfer and finite element analysis, I performed a full ANSYS simulation of an LED heat sink to evaluate whether the design could maintain safe operating temperatures. The assignment focused on understanding **boundary conditions, mesh convergence, heat flux behavior, and thermal design modifications**.
+
+The analysis included:
+- Building and refining the mesh  
+- Applying convection and insulation boundary conditions  
+- Verifying energy conservation  
+- Evaluating heat flux and temperature gradients  
+- Testing a modified heat sink geometry and comparing thermal performance  
+
+This project strengthened my understanding of finite element heat transfer, numerical sensitivity, and the thermal design tradeoffs present in compact electronic systems.
+
+---
+
+### Pre-Analysis & Boundary Condition Setup
+Before building the ANSYS model, I evaluated the correctness of several theoretical statements related to the governing physics and FEA implementation.
+
+Key findings:
+- **Insulated boundaries must use the normal derivative \( dT/dn \)**, not directional derivatives (e.g., \( dT/dy \)).  
+- The **finite element solver computes temperatures at nodes**, not at elements.  
+- Polynomial interpolation within each element constructs the global system of algebraic equations.  
+- Post-processing relies on nodal temperatures to compute quantities such as heat flux vectors, temperature contours, and energy balances.
+
+This pre-analysis provided the physical and mathematical foundation for correctly setting up the ANSYS model.
+
+---
+
+### Solution 1: Baseline Heat Sink Design
+For the baseline geometry, I simulated steady-state heat conduction with convection at the fin surfaces and internal heat generation at the LED.
+
+#### **Temperature Distribution**
+- Maximum temperature: **81.53°C**  
+- Well below the design requirement of **85°C**  
+- Temperature decreases smoothly from the LED through the fin array, as expected due to conduction paths and convection cooling
+
+**Figure 1. Temperature Contour for Baseline Fin Geometry**  
+*(insert temperature contour image)*
+
+#### **Heat Flux Distribution**
+Heat flux radiated outward from the LED and then followed the fin geometry as heat transferred toward the convection surfaces.
+
+- Highest heat flux occurred near the LED center  
+- Flux magnitude decreased toward fin tips  
+- Shape of flux field confirmed correct physics and mesh resolution near gradients
+
+**Figure 2. Heat Flux Contour and Vector Field**  
+*(insert heat flux image)*
+
+#### **Energy Conservation Check**
+- Heat generated: **24.43 W**  
+- Heat lost to convection: **24.42 W**  
+- Difference: **0.01 W**, indicating **excellent numerical energy balance**
+
+#### **Mesh Convergence Behavior**
+- Temperature changed minimally when refining the mesh (81.53°C → 81.60°C)  
+- Heat flux changed substantially (92,029 W/m² → 130,700 W/m²)
+
+This confirmed an important FEA principle:  
+> **Gradients such as heat flux are far more mesh-sensitive than scalar temperature fields.**
+
+---
+
+### Solution 2: Modified Heat Sink Geometry
+To test how geometry impacts cooling performance, I reduced the fin length from **0.10 m → 0.06 m** and re-ran the analysis.
+
+#### **Temperature Distribution**
+- Maximum temperature: **94.99°C**  
+- Exceeded the design requirement of 85°C  
+- Demonstrated clear thermal performance degradation
+
+**Figure 3. Temperature Contour for Shortened Fin Geometry**  
+*(insert modified geometry temp image)*
+
+#### **Why the Modified Design Failed**
+- Shorter fins reduced the available **surface area for convection**, lowering the heat sink’s ability to reject thermal energy  
+- Heat had less distance along the fin to dissipate, resulting in higher temperatures near the LED  
+- Lower surface area → reduced convection → more stored heat → higher steady-state temperature
+
+This comparison highlighted the critical importance of fin length and surface area when designing compact heat sinks.
+
+---
+
+### Key Engineering Takeaways
+Through this analysis, I developed a deeper understanding of:
+
+- **Boundary condition formulation** for convection and insulation  
+- **Mesh sensitivity**, especially for gradient-dependent quantities  
+- **Energy conservation verification** in finite element models  
+- **Thermal design principles** for heat sinks and compact electronics  
+- How geometry influences temperature distribution and cooling performance  
+
+The project also strengthened my ability to interpret FEA results and validate them against theoretical expectations.
+
+---
+
+### My Contribution
+Since this was an **individual project**, I completed all aspects of the work, including:
+
+- Defining the theoretical model and boundary conditions  
+- Setting up the ANSYS geometry, materials, convection coefficients, and heat generation  
+- Generating meshes and performing mesh refinement studies  
+- Running simulations and extracting temperature and heat flux fields  
+- Performing energy checks to ensure physical accuracy  
+- Documenting thermal performance differences between baseline and modified designs  
+
+---
+
+### Summary
+The baseline heat sink successfully met the thermal design requirement, while the shortened-fin variant failed due to reduced surface area and ineffective convection. This ANSYS project demonstrated how modeling, physics-based reasoning, and geometric intuition work together in real-world thermal system design.
+
