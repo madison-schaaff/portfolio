@@ -3,37 +3,43 @@ layout: project
 title: MAE 4272 Wind Turbine Blade Design Project
 description: Advanced CAD + Aerodynamics Project
 technologies: [Autodesk Fusion, MATLAB]
-image: /assets/images/blade.jpg
+image: /assets/images/bladee.jpg
 ---
 
 ### Project Overview
-As part of MAE 4272, our team was tasked with designing a custom wind-turbine blade capable of outperforming the baseline blade from Lab 4. The goal was to produce a geometry that delivered higher power output at low Reynolds numbers while remaining structurally reliable and compatible with the existing hub and test hardware. This project combined aerodynamic modeling, CAD development, and wind-tunnel validation (see **Figure 3** for the experimental setup).
+As part of MAE 4272, our team was tasked with designing and experimentally validating a custom wind-turbine blade capable of outperforming the baseline blade geometry tested earlier in the course. The project required producing a blade optimized for **low-Reynolds-number operation**, where aerodynamic performance is highly sensitive to airfoil shape and angle-of-attack control. Our design had to increase power output near a target operating speed of ~1880 RPM while remaining structurally reliable, manufacturable, and fully compatible with the existing hub and wind-tunnel setup. This work combined aerodynamic modeling, structural considerations, CAD design, and hands-on testing (see **Figure 3** for the wind-tunnel configuration).
 
 ### Design Process
-We began by selecting design conditions of 5 m/s wind speed and a target operating speed near 1880 RPM. Using Blade Element Momentum Theory (BEMT) and airfoil performance data, we iterated on blade twist, taper, and chord distribution to maintain an efficient angle of attack across the span.  
-**My primary contribution was creating the full CAD model of the system**, including the custom airfoil, blade geometry, and hub interface. The final manufacturable design is shown in **Figure 1**, which highlights the aerodynamic taper and root attachment features used during testing.
+We began by selecting operating parameters of **5 m/s incoming flow**, an optimal **tip-speed ratio of λ ≈ 6**, and a corresponding design speed of **1880 RPM**. Airfoil performance data indicated peak efficiency at approximately **7° angle of attack**, with maximum lift-to-drag ratio near **CL/CD ≈ 66.5**, guiding our selection of twist and chord distribution.
+
+Using **Blade Element Momentum Theory (BEMT)**, we computed inflow angle, relative velocity, and aerodynamic loading at discrete spanwise elements. These calculations were used to size chord, adjust twist, and estimate torque, thrust, and bending stresses. The final geometry balanced aerodynamic efficiency with structural safety—specifically ensuring bending stresses remained below the material limit of roughly **44 MPa**.
+
+**My primary contribution was creating the complete CAD model**, including the custom airfoil profile, full blade geometry, and the hub/attachment interface. This required integrating aerodynamic design outputs with manufacturability constraints and refining the taper and twist distributions into a smooth, printable solid model. The final blade CAD is shown in **Figure 1**, highlighting the aerodynamic planform and root geometry used for attachment.
 
 ### Testing Summary
-We tested the finished blade in the MAE wind tunnel using a torque brake and DAQ system to measure torque, RPM, and electrical power. During testing, **I operated the torque brake by adjusting the voltage to sweep through the operating range and recorded corresponding data for power-curve generation**. The resulting power curve, shown in **Figure 2**, demonstrates that our custom blade achieved a higher peak power than the Lab 4 baseline.
+The manufactured blade was tested in the MAE wind tunnel across wind speeds of 3–6 m/s using the Lab-4 DAQ system and a torque brake to impose controlled load. During testing, I operated the torque brake, manually adjusting its voltage to sweep through the operating range and recording the corresponding torque and RPM values at each setting. These measurements formed the basis for constructing the blade’s power curve.
+
+As seen in **Figure 2**, the custom blade achieved a high peak power at all wind speeds, consistent with model predictions, which out performed our baseline design. However, the blade exhibited some **startup sensitivity and occasional stall at low Reynolds numbers**, a known challenge when aerodynamic loading is light and the flow is not fully developed. Despite these limitations, structural performance was stable with no observed vibrations, deformation, or mechanical issues during testing.
 
 ### My Contribution
 Across the project, I was responsible for:
-- **All CAD development**, including airfoil construction, blade geometry, and hub/attachment modeling  
-- Preparing manufacturing-ready files and verifying geometric and structural constraints  
-- **Operating the torque brake** during wind-tunnel tests and recording experimental data  
-- Organizing raw data for power-curve generation and comparison with BEMT predictions  
+- **Complete CAD development**, including custom airfoil generation, blade geometry, hub design, and preparation of print-ready manufacturing files  
+- Integrating BEMT-based aerodynamic targets into a manufacturable 3D model  
+- **Operating the torque brake during wind-tunnel tests** and recording experimental torque/RPM data  
+- Organizing raw DAQ data for power-curve generation and comparison with BEMT predictions  
+- Assisting in diagnosing startup stall behavior and evaluating deviations from theoretical performance  
 
 ---
 
 ## Figures
 
 **Figure 1. CAD Model of Final Blade**  
-![CAD Model](/assets/images/blade_cad.jpg)
+![CAD Model](/assets/images/cad.jpg)
 
 **Figure 2. Measured Power Curve Compared to Design Point**  
-![Power Curve](/assets/images/power_plot.jpg)
+![Power Curve](/assets/images/powercurve.jpg)
 
 **Figure 3. Wind Tunnel Test Setup with Custom Blade Installed**  
-![Wind Tunnel Photo](/assets/images/tunnel_photo.jpg)
+![Wind Tunnel Photo](/assets/images/testing.jpg)
 
 
