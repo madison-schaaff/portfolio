@@ -3,7 +3,7 @@ layout: project
 title: MAE 2250 Cord Roller Project
 description: Product Design, CAD, and Prototyping
 technologies: [Autodesk Fusion, FDM 3D Printing]
-image: /assets/images/Stone.jpg
+image: /assets/images/roller.jpg
 ---
 
 ### Project Overview
