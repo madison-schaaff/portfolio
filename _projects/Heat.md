@@ -3,7 +3,7 @@ layout: project
 title: ANSYS Heat Sink Analysis – LED Thermal Management
 description: Finite Element Simulation, Heat Transfer Analysis, Thermal Optimization
 technologies: [ANSYS Mechanical, FEA, Convection Modeling]
-image: /assets/images/heatsink_temp.png
+image: /assets/images/short.jpg
 ---
 
 ### Project Overview
@@ -42,7 +42,7 @@ For the baseline geometry, I simulated steady-state heat conduction with convect
 - Temperature decreases smoothly from the LED through the fin array, as expected due to conduction paths and convection cooling
 
 **Figure 1. Temperature Contour for Baseline Fin Geometry**  
-*(insert temperature contour image)*
+![regular](/assets/images/regular.jpg)
 
 #### **Heat Flux Distribution**
 Heat flux radiated outward from the LED and then followed the fin geometry as heat transferred toward the convection surfaces.
@@ -52,7 +52,7 @@ Heat flux radiated outward from the LED and then followed the fin geometry as he
 - Shape of flux field confirmed correct physics and mesh resolution near gradients
 
 **Figure 2. Heat Flux Contour and Vector Field**  
-*(insert heat flux image)*
+![vector](/assets/images/vector.jpg)
 
 #### **Energy Conservation Check**
 - Heat generated: **24.43 W**  
@@ -77,7 +77,7 @@ To test how geometry impacts cooling performance, I reduced the fin length from 
 - Demonstrated clear thermal performance degradation
 
 **Figure 3. Temperature Contour for Shortened Fin Geometry**  
-*(insert modified geometry temp image)*
+![short](/assets/images/short.jpg)
 
 #### **Why the Modified Design Failed**
 - Shorter fins reduced the available **surface area for convection**, lowering the heat sink’s ability to reject thermal energy  
