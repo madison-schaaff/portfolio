@@ -1,9 +1,9 @@
 ---
 layout: project
-title: MAE 3050 Hand-Launched Glider – Final Design Project
+title: MAE 3050 Glider Design Project
 description: Aerodynamics, Flight Mechanics, Prototyping
 technologies: [SolidWorks, MATLAB, Flight Testing]
-image: /assets/images/glidercad.png
+image: /assets/images/glidercad.jpg
 ---
 
 ### Project Overview
