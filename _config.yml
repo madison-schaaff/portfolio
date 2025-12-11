@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Madison Schaaff
 description              : Madison Schaaff - Projects and Resume 
-baseurl                  : "portfolio" # Set this to your repo name 
+baseurl                  : "/portfolio" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
