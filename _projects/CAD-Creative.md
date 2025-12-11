@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 2250 CAD Creative Project – Perfume Bottle Model
+title: MAE 2250 CAD Creative Project
 description: Advanced Solid Modeling & Feature-Based Design
 technologies: [Autodesk Fusion 360]
 image: /assets/images/perfume2.jpg
