@@ -58,7 +58,7 @@ We fabricated the EG from balsa wood, sanding the wings to produce an elliptical
 **Figure 1. Glider Final Design**  
 ![glider](/assets/images/glider.jpg)
 
-**Figure 2. Glider Final Design**  
+**Figure 2. Glider Final Design CAD**  
 ![glidercad](/assets/images/glidercad.jpg)
 
 ---
