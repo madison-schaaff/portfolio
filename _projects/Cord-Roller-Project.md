@@ -7,7 +7,7 @@ image: /assets/images/roller.jpg
 ---
 
 ### Project Overview
-For my MAE 2250 final project, I designed and engineered a compact cord-management device—later named the **Cord Cubby**—intended to solve the everyday problem of tangled chargers, earbuds, and USB cables. My goal was to create a small, reliable, user-friendly mechanism that could neatly spool a cord into an enclosed housing while remaining durable enough for daily use and portable enough to fit comfortably in a backpack or pocket.
+For my MAE 2250 final project, I designed and engineered a compact cord-management device — later named the **Cord Cubby** — intended to solve the everyday problem of tangled chargers, earbuds, and USB cables. My goal was to create a small, reliable, user-friendly mechanism that could neatly spool a cord into an enclosed housing while remaining durable enough for daily use and portable enough to fit comfortably in a backpack or pocket.
 
 This project involved the full engineering design cycle: concept generation, rapid prototyping, CAD modeling, mechanical testing, redesign, and fabrication of a functional final product.
 
@@ -33,7 +33,7 @@ To choose which prototype to move forward with, I performed three categories of 
 - **Durability tests:** Structural robustness under repeated loading and drop tests  
 - **Reliability tests:** Consistency of operation after multiple cycles  
 
-**Prototype B**—the sliding box and internal spool design—outperformed the others in all three categories. It offered the best balance of compactness, controllability, manufacturability, and user familiarity, so I selected it as the foundation for the final device.
+**Prototype B** — the sliding box and internal spool design — outperformed the others in all three categories. It offered the best balance of compactness, controllability, manufacturability, and user familiarity, so I selected it as the foundation for the final device.
 
 ---
 
@@ -86,8 +86,7 @@ Informed by these results, I iterated the design once more—reinforcing the lid
 Below is the final 3D-printed Cord Cubby and its CAD model after all refinements:
 
 **Figure 4. Final Cord Cubby — ABS Fully Assembled Unit**  
-![Final Product](/assets/images/final.jpg)
-
+![Final Product]({{ site.baseurl }}/assets/images/final.jpg)
 **Figure 5. Final Cord Cubby — CAD Model**  
 ![Final Product CAD](/assets/images/roller.jpg)
 
