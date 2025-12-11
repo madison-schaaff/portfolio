@@ -86,7 +86,8 @@ Informed by these results, I iterated the design once more—reinforcing the lid
 Below is the final 3D-printed Cord Cubby and its CAD model after all refinements:
 
 **Figure 4. Final Cord Cubby — ABS Fully Assembled Unit**  
-![Final Product]({{ site.baseurl }}/assets/images/final.jpg)
+![Final Product](/assets/images/final.jpg)
+
 **Figure 5. Final Cord Cubby — CAD Model**  
 ![Final Product CAD](/assets/images/roller.jpg)
 
