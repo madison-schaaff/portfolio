@@ -141,7 +141,7 @@ The 737 MAX crisis demonstrates that engineering failures are rarely purely tech
 - Ethical decision-making is foundational to engineering practice.  
 - Sociotechnical awareness is essential when designing high-stakes aerospace systems.  
 
-The analysis reinforced that ethical responsibility is not an optional supplement to engineering—it is a core professional requirement that directly influences public safety and trust.
+The analysis reinforced that ethical responsibility is not an optional supplement to engineering — it is a core professional requirement that directly influences public safety and trust.
 
 
 
