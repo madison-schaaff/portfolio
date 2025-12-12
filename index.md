@@ -20,30 +20,16 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 
 ---
 
-| **Relevant Coursework (Undergraduate)**| |
-|---|---|
-| - Propulsion of Aircraft & Rockets | - Introduction to Aeronautics |
-| - Fluid Mechanics | - Heat Transfer |
-| - Fluids & Heat Transfer Lab | - System Dynamics |
-| - Mechatronics | - Mechanics of Engineering Materials |
-| - Statics & Mechanics of Solids | - Thermodynamics |
-| - Dynamics | - Mechanical Synthesis |
-| - Automotive Engineering | - Electric Drive Vehicles |
-| - Physics Sequence (Mechanics & Heat, Electromagnetism, Waves & Quantum Physics) | 
-| - Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations) | 
+| **Relevant Coursework (Undergraduate)** |  |
+|-----------------------------------------|---|
+| <ul><li>Propulsion of Aircraft & Rockets</li><li>Fluid Mechanics</li><li>Fluids & Heat Transfer Lab</li><li>Mechatronics</li><li>Statics & Mechanics of Solids</li><li>Dynamics</li><li>Automotive Engineering</li><li>Physics Sequence (Mechanics & Heat, Electromagnetism, Waves & Quantum Physics)</li><li>Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations)</li></ul> | 
+<ul><li>Introduction to Aeronautics</li><li>Heat Transfer</li><li>System Dynamics</li><li>Mechanics of Engineering Materials</li><li>Thermodynamics</li><li>Mechanical Synthesis</li><li>Electric Drive Vehicles</li></ul> |
 
 ---
 
-<div style="margin-left:0; text-align:left;">
-
-<h3>Relevant Coursework (Graduate, SP2026)</h3>
-
-<ul>
-  <li>Plasmas for Propulsion</li>
-  <li>Combustion Processes</li>
-  <li>Spacecraft Technology &amp; Systems</li>
-  <li>Space Structures</li>
-  <li>Intermediate Fluid Dynamics with CFD</li>
-</ul>
-
-</div>
+**Relevant Coursework (Graduate, to be taken SP2026)**
+- Plasmas for Propulsion
+- Combustion Processes
+- Spacecraft Technology & Systems
+- Space Structures
+- Intermediate Fluid Dynamics with CFD
