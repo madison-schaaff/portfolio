@@ -3,7 +3,7 @@ layout: project
 title: MAE 3780 Autonomous Robot – Final Mechatronics Project
 description: Mechanical Design, Prototyping, CAD, and Mechatronic Integration
 technologies: [Arduino, SolidWorks, Fusion360]
-image: /assets/images/robotcad.jpg
+image: /assets/images/mechrobot.jpg
 ---
 
 ### Project Overview
