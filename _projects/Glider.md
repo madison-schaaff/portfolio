@@ -3,7 +3,7 @@ layout: project
 title: MAE 3050 Glider Design Project
 description: Aerodynamics, Flight Mechanics, Prototyping
 technologies: [SolidWorks, MATLAB, Flight Testing]
-image: /assets/images/glidercad.jpg
+image: /assets/images/glidermain.jpg
 ---
 
 ### Project Overview
