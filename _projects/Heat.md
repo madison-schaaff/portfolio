@@ -3,7 +3,7 @@ layout: project
 title: ANSYS Heat Sink Analysis – LED Thermal Management
 description: Finite Element Simulation, Heat Transfer Analysis, Thermal Optimization
 technologies: [ANSYS Mechanical, FEA, Convection Modeling]
-image: /assets/images/short.jpg
+image: /assets/images/thermal.jpg
 ---
 
 ### Project Overview
