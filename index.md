@@ -27,8 +27,8 @@ I thrive in collaborative, fast-paced environments where curiosity, iteration, a
 | - Statics & Mechanics of Solids | - Thermodynamics |
 | - Dynamics | - Mechanical Synthesis |
 | - Automotive Engineering | - Electric Drive Vehicles |
-| - Physics Sequence (Mechanics & Heat, Electromagnetism, Oscillations, Waves, & Quantum Physics) | |
-| - Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations) | |
+| - Physics Sequence (Mechanics & Heat, Electromagnetism, Oscillations, Waves, & Quantum Physics) | 
+| - Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations) | 
 
 
 **Relevant Coursework (Graduate, to be taken SP2026)**
