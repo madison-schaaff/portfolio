@@ -106,7 +106,7 @@ Below is the final 3D-printed Cord Cubby and its CAD model after all refinements
 </p>
 
 <p align="center">
-  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/roller.jpg"
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/cubby.jpg"
        alt="Final Cord Cubby — CAD Model"
        width="450"/><br>
   <em><strong>Figure 5.</strong> Final Cord Cubby — CAD Model</em>
