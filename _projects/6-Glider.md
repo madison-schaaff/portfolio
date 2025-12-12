@@ -55,12 +55,19 @@ Scaling calculations determined EG values for:
 
 We fabricated the EG from balsa wood, sanding the wings to produce an elliptical shape and smooth airflow. Control surfaces (ailerons, elevator, rudder) were built using taped additions, which allowed for iterative adjustments during testing.
 
-**Figure 1. Glider Final Design**  
-![glider](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/glider.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/glider.jpg"
+       alt="Glider Final Design"
+       width="450"/><br>
+  <em><strong>Figure 1.</strong> Glider Final Design</em>
+</p>
 
-**Figure 2. Glider Final Design CAD**  
-![glidercad](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/glidercad.jpg)
-
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/glidercad.jpg"
+       alt="Glider Final Design CAD"
+       width="450"/><br>
+  <em><strong>Figure 2.</strong> Glider Final Design CAD</em>
+</p>
 ---
 
 ### Flight Testing & Results
