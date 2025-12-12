@@ -21,21 +21,21 @@ Below are the three rough prototypes I built using inexpensive materials such as
 <p align="center">
   <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p1.jpg"
        alt="Prototype A — Vertical Tube Spool Concept"
-       width="450"/><br>
+       width="350"/><br>
   <em><strong>Figure 1.</strong> Prototype A — Vertical Tube Spool Concept</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p2.jpg"
        alt="Prototype B — Sliding Box & Coil Mechanism (Selected for Development)"
-       width="450"/><br>
+       width="350"/><br>
   <em><strong>Figure 2.</strong> Prototype B — Sliding Box & Coil Mechanism (Selected for Development)</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p3.jpg"
        alt="Prototype C — Dual-Disk Clamp Spool"
-       width="450"/><br>
+       width="350"/><br>
   <em><strong>Figure 3.</strong> Prototype C — Dual-Disk Clamp Spool</em>
 </p>
 
