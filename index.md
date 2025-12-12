@@ -29,15 +29,15 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 | - Statics & Mechanics of Solids | - Thermodynamics |
 | - Dynamics | - Mechanical Synthesis |
 | - Automotive Engineering | - Electric Drive Vehicles |
-| - Physics Sequence (Mechanics & Heat, Electromagnetism, Oscillations, Waves, & Quantum Physics) |
-| - Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations) |
+| - Physics Sequence (Mechanics & Heat, Electromagnetism, Waves & Quantum) |
+| - Math Sequence (Multivariable Calculus, Linear Algebra, Differential Equations) |
 
 
 ---
 
-**Relevant Coursework (Graduate, to be taken SP2026)**
-- Plasmas for Propulsion
-- Combustion Processes
-- Spacecraft Technology & Systems
-- Space Structures
-- Intermediate Fluid Dynamics with CFD
+**Relevant Coursework (Graduate, to be taken SP2026)**  
+\- Plasmas for Propulsion  
+\- Combustion Processes  
+\- Spacecraft Technology & Systems  
+\- Space Structures  
+\- Intermediate Fluid Dynamics with CFD  
