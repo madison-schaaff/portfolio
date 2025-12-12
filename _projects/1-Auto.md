@@ -48,7 +48,7 @@ The intercooled configuration provides the highest performance margin and best t
   <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/carcurve.jpg"
        alt="Intercooled Turbocharger and Base Engine Power Curve"
        width="450"/><br>
-  <em>Figure 1. Intercooled Turbocharger and Base Engine Power Curve</em>
+  <em><strong>Figure 1.</strong> Intercooled Turbocharger and Base Engine Power Curve</em>
 </p>
 
 
