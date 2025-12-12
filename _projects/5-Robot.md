@@ -17,8 +17,13 @@ Our final robot used:
 
 The robot performed reliably during competition—winning **4 of 5 round-robin matches** and advancing to the top 16. It consistently detected board boundaries, executed sweeping behaviors, and collected blocks through its mechanically robust design.
 
-**Figure 1. Final Competition Robot**  
-![robot](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/robot.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/robot.jpg"
+       alt="Final Competition Robot"
+       width="450"/><br>
+  <em><strong>Figure 1.</strong> Final Competition Robot</em>
+</p>
+
 
 ---
 
@@ -41,8 +46,13 @@ The mechanical system was designed to be:
 
 This approach reduced complexity, improved reliability, and allowed the team to focus on refining the control logic.
 
-**Figure 2. CAD Model of Final Robot**  
-![robotcad](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/robotcad.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/robotcad.jpg"
+       alt="CAD Model of Final Robot"
+       width="450"/><br>
+  <em><strong>Figure 2.</strong> CAD Model of Final Robot</em>
+</p>
+
 
 ---
 
@@ -58,8 +68,13 @@ The robot followed this logic:
 
 This behavior enabled consistent border detection and predictable sweeping motion.
 
-**Figure 3. Strategy Flowchart**  
-![flowchart](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/flowchart.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/flowchart.jpg"
+       alt="Strategy Flowchart"
+       width="450"/><br>
+  <em><strong>Figure 3.</strong> Strategy Flowchart</em>
+</p>
+
 
 ---
 
