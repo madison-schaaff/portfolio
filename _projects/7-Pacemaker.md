@@ -29,8 +29,13 @@ The second approach provided clearer analytical results and aligned more directl
 - Pressure output  
 - Error dynamics  
 
-**Figure 1. Pacemaker–Heart Block Diagram**  
-![block](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/block.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/block.jpg"
+       alt="Pacemaker–Heart Block Diagram"
+       width="450"/><br>
+  <em><strong>Figure 1.</strong> Pacemaker–Heart Block Diagram</em>
+</p>
+
 
 ---
 
@@ -43,8 +48,13 @@ Once the block diagram was finalized, we derived the Laplace-domain transfer fun
 
 We computed closed-loop error equations for all three controllers. Through symbolic manipulation and hand calculations, supported by MATLAB, we evaluated how each controller handled disturbances.
 
-**Figure 2. Transfer Function and Controller Error Calculations using Final Value Theorem**  
-![FVT](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/FVT.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/FVT.jpg"
+       alt="Transfer Function and Controller Error Calculations using Final Value Theorem"
+       width="450"/><br>
+  <em><strong>Figure 2.</strong> Transfer Function and Controller Error Calculations using Final Value Theorem</em>
+</p>
+
 
 ---
 
@@ -59,8 +69,13 @@ The simulations confirmed the core findings derived from the Final Value Theorem
 
 Given the biological complexity of heart signals, derivative terms can amplify noise and cause instability, making PI control the most practical and robust choice.
 
-**Figure 3. Error Response for PD, PI, and PID Controllers**  
-![error](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/error.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/error.jpg"
+       alt="Error Response for PD, PI, and PID Controllers"
+       width="450"/><br>
+  <em><strong>Figure 3.</strong> Error Response for PD, PI, and PID Controllers</em>
+</p>
+
 
 ---
 
