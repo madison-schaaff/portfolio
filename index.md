@@ -6,10 +6,14 @@ title: Madison Schaaff
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/headshot.jpeg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/headshot.jpg" | relative_url }}){: class="profile-image"}
 
-My name is Madison Schaaff, and I am a fourth-year student at Cornell University majoring in Mechanical Engineering with a minor in Aerospace Engineering. My academic background has given me a strong foundation in the principles of dynamics, thermodynamics, fluid mechanics, and structural analysis. Beyond the classroom, I’m deeply passionate about advancing transportation technologies.
+My name is Madison Schaaff, I'm fourth-year Mechanical Engineering student at Cornell University and a candidate for the Cornell M.Eng. in Aerospace Engineering. Through coursework, research, and industry experience, I’ve developed a strong foundation in dynamics, thermodynamics, fluid mechanics, heat transfer, structural analysis, aerospace engineering, and systems engineering.
 
-In addition to my interest in ground technology, I’m driven by the challenge of revolutionizing space structures and aerospace technology. I aspire to contribute to the design and development of next-generation spacecraft, deployable systems, and sustainable  infrastructure that can support long-term space exploration.
+My engineering interests center on aerospace, transportation, and high-performance engineered systems. I’m especially drawn to the intersection of design, manufacturing, and operations, where complex systems are optimized and brought into production. My roles with NASA L’SPACE, Procter & Gamble, Xylem, Cornell Hyperloop, SEA Lab, and the Space Systems Design Studio have reinforced this interest by giving me hands-on experience in modeling, testing, prototyping, and large-scale manufacturing environments.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>.
+Looking ahead, I’m driven by the challenge of advancing next-generation aerospace and space technologies. I hope to contribute to the development of aircraft systems, spacecraft, deployable structures, and long-duration space infrastructure. My long-term goal is to work at the interface of aerospace design and manufacturing — and eventually pursue the path toward becoming an astronaut.
+
+I thrive in collaborative, fast-paced environments where curiosity, iteration, and problem-solving are essential. I’m excited to continue growing as an engineer and to contribute to technologies that push the boundaries of flight and exploration!
+
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>!
