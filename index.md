@@ -30,7 +30,7 @@ I thrive in collaborative, fast-paced environments where curiosity, iteration, a
 | - Physics Sequence (Mechanics & Heat, Electromagnetism, Oscillations, Waves, & Quantum Physics) | 
 | - Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations) | 
 
--- 
+---
 
 **Relevant Coursework (Graduate, to be taken SP2026)**
 - Plasmas for Propulsion
