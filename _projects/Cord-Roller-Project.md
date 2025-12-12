@@ -19,13 +19,13 @@ I began by brainstorming a wide range of mechanisms—spring-loaded reels, hinge
 Below are the three rough prototypes I built using inexpensive materials such as cardboard, tubes, clips, rope, and tape:
 
 **Figure 1. Prototype A — Vertical Tube Spool Concept**  
-![Prototype 1](/assets/images/p1.jpg)
+![Prototype 1](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p1.jpg)
 
 **Figure 2. Prototype B — Sliding Box & Coil Mechanism (Selected for Development)**  
-![Prototype 2](/assets/images/p2.jpg)
+![Prototype 2](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p2.jpg)
 
 **Figure 3. Prototype C — Dual-Disk Clamp Spool**  
-![Prototype 3](/assets/images/p3.jpg)
+![Prototype 3](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p3.jpg)
 
 To choose which prototype to move forward with, I performed three categories of tests on each:
 
@@ -86,10 +86,10 @@ Informed by these results, I iterated the design once more—reinforcing the lid
 Below is the final 3D-printed Cord Cubby and its CAD model after all refinements:
 
 **Figure 4. Final Cord Cubby — ABS Fully Assembled Unit**  
-![Final Product](/assets/images/final.jpg)
+![Final Product](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/final.jpg)
 
 **Figure 5. Final Cord Cubby — CAD Model**  
-![Final Product CAD](/assets/images/roller.jpg)
+![Final Product CAD](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/roller.jpg)
 
 The final design is compact, lightweight, and simple to operate. The magnetic/post hybrid closure system holds the lid securely, the central clip reliably anchors the cord, and the rotating shaft allows the device to wrap cords quickly and neatly. ABS plastic provides a strong balance of durability and low weight, making the product suitable for everyday transport.
 
