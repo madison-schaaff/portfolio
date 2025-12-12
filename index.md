@@ -34,8 +34,7 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 
 ---
 
-**Relevant Coursework (Graduate, SP2026)** 
-
+**Relevant Coursework (Graduate, SP2026)**  
 \- Plasmas for Propulsion  
 \- Combustion Processes  
 \- Spacecraft Technology & Systems  
