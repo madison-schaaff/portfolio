@@ -102,11 +102,11 @@ footer {
 }
 
 .project-image {
-  float: left;
-  margin: 20px 25px 25px 0;
-  max-width: none;   /* removes the 400px limit */
+  display: block;
+  margin: 20px auto;
+  max-width: 500px;   /* adjust to your preferred size */
   width: 100%;
-  vertical-align: top;
+  float: none; 
 }
 
 .inline-image {
