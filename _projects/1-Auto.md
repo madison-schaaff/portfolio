@@ -45,7 +45,12 @@ Two configurations were evaluated:
 The intercooled configuration provides the highest performance margin and best thermal control, while the non-intercooled option offers strong gains at lower cost.
 
 **Figure 1. Intercooled Turbocharger and Base Engine Power Curve**  
-![carcurve](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/carcurve.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/carcurve.jpg"
+       alt="Intercooled Turbocharger and Base Engine Power Curve"
+       width="450"/>
+</p>
+
 
 ---
 
