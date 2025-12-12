@@ -18,14 +18,27 @@ I began by brainstorming a wide range of mechanisms—spring-loaded reels, hinge
 
 Below are the three rough prototypes I built using inexpensive materials such as cardboard, tubes, clips, rope, and tape:
 
-**Figure 1. Prototype A — Vertical Tube Spool Concept**  
-![Prototype 1](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p1.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p1.jpg"
+       alt="Prototype A — Vertical Tube Spool Concept"
+       width="450"/><br>
+  <em><strong>Figure 1.</strong> Prototype A — Vertical Tube Spool Concept</em>
+</p>
 
-**Figure 2. Prototype B — Sliding Box & Coil Mechanism (Selected for Development)**  
-![Prototype 2](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p2.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p2.jpg"
+       alt="Prototype B — Sliding Box & Coil Mechanism (Selected for Development)"
+       width="450"/><br>
+  <em><strong>Figure 2.</strong> Prototype B — Sliding Box & Coil Mechanism (Selected for Development)</em>
+</p>
 
-**Figure 3. Prototype C — Dual-Disk Clamp Spool**  
-![Prototype 3](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p3.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p3.jpg"
+       alt="Prototype C — Dual-Disk Clamp Spool"
+       width="450"/><br>
+  <em><strong>Figure 3.</strong> Prototype C — Dual-Disk Clamp Spool</em>
+</p>
+
 
 To choose which prototype to move forward with, I performed three categories of tests on each:
 
@@ -85,11 +98,20 @@ Informed by these results, I iterated the design once more—reinforcing the lid
 ### Final Product
 Below is the final 3D-printed Cord Cubby and its CAD model after all refinements:
 
-**Figure 4. Final Cord Cubby — ABS Fully Assembled Unit**  
-![Final Product](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/final.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/final.jpg"
+       alt="Final Cord Cubby — ABS Fully Assembled Unit"
+       width="450"/><br>
+  <em><strong>Figure 4.</strong> Final Cord Cubby — ABS Fully Assembled Unit</em>
+</p>
 
-**Figure 5. Final Cord Cubby — CAD Model**  
-![Final Product CAD](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/roller.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/roller.jpg"
+       alt="Final Cord Cubby — CAD Model"
+       width="450"/><br>
+  <em><strong>Figure 5.</strong> Final Cord Cubby — CAD Model</em>
+</p>
+
 
 The final design is compact, lightweight, and simple to operate. The magnetic/post hybrid closure system holds the lid securely, the central clip reliably anchors the cord, and the rotating shaft allows the device to wrap cords quickly and neatly. ABS plastic provides a strong balance of durability and low weight, making the product suitable for everyday transport.
 
