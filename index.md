@@ -32,11 +32,9 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 | - Physics Sequence (Mechanics & Heat, Electromagnetism, Waves & Quantum) |
 | - Math Sequence (Multivariable Calculus, Linear Algebra, Differential Equations) |
 
-
 ---
 
-| **Relevant Coursework (Graduate, SP2026)** |
-|-------------------------|
+**Relevant Coursework (Graduate, SP2026)** 
 \- Plasmas for Propulsion  
 \- Combustion Processes  
 \- Spacecraft Technology & Systems  
