@@ -16,19 +16,37 @@ Looking ahead, I’m driven by the challenge of advancing next-generation aerosp
 
 I thrive in collaborative, fast-paced environments where curiosity, iteration, and problem-solving are essential. I’m excited to continue growing as an engineer and to contribute to technologies that push the boundaries of flight and exploration!
 
-**Relevant Coursework (Undergraduate)**
+### Relevant Coursework (Undergraduate)
 
-| | |
-|---|---|
-| - Propulsion of Aircraft & Rockets | - Introduction to Aeronautics |
-| - Fluid Mechanics | - Heat Transfer |
-| - Fluids & Heat Transfer Lab | - System Dynamics |
-| - Mechatronics | - Mechanics of Engineering Materials |
-| - Statics & Mechanics of Solids | - Thermodynamics |
-| - Dynamics | - Mechanical Synthesis |
-| - Automotive Engineering | - Electric Drive Vehicles |
-| - Physics Sequence (Mechanics & Heat, Electromagnetism, Oscillations, Waves, & Quantum Physics) | |
-| - Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations) | |
+<div style="display: flex; gap: 40px;">
+
+<div>
+
+- Propulsion of Aircraft & Rockets  
+- Fluid Mechanics  
+- Fluids & Heat Transfer Lab  
+- Mechatronics  
+- Statics & Mechanics of Solids  
+- Dynamics  
+- Automotive Engineering  
+- Physics Sequence (Mechanics & Heat, Electromagnetism, Oscillations, Waves, & Quantum Physics)  
+- Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations)
+
+</div>
+
+<div>
+
+- Introduction to Aeronautics  
+- Heat Transfer  
+- System Dynamics  
+- Mechanics of Engineering Materials  
+- Thermodynamics  
+- Mechanical Synthesis  
+- Electric Drive Vehicles
+
+</div>
+
+</div>
 
 **Relevant Coursework (Graduate, to be taken SP2026)**
 - Plasmas for Propulsion
