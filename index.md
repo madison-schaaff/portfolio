@@ -36,12 +36,25 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 
 <div style="text-align:left">
 
-| **Relevant Coursework (Graduate, SP2026)** |
-|--------------------------------------------|
-| - Plasmas for Propulsion                   |
-| - Combustion Processes                     |
-| - Spacecraft Technology & Systems          |
-| - Space Structures                         |
-| - Intermediate Fluid Dynamics with CFD     |
+<table>
+  <tr>
+    <th>Relevant Coursework (Graduate, SP2026)</th>
+  </tr>
+  <tr>
+    <td>- Plasmas for Propulsion</td>
+  </tr>
+  <tr>
+    <td>- Combustion Processes</td>
+  </tr>
+  <tr>
+    <td>- Spacecraft Technology & Systems</td>
+  </tr>
+  <tr>
+    <td>- Space Structures</td>
+  </tr>
+  <tr>
+    <td>- Intermediate Fluid Dynamics with CFD</td>
+  </tr>
+</table>
 
 </div>
