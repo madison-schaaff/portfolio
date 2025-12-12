@@ -51,7 +51,7 @@ We computed closed-loop error equations for all three controllers. Through symbo
 <p align="center">
   <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/FVT.jpg"
        alt="Transfer Function and Controller Error Calculations using Final Value Theorem"
-       width="450"/><br>
+       width="600"/><br>
   <em><strong>Figure 2.</strong> Transfer Function and Controller Error Calculations using Final Value Theorem</em>
 </p>
 
