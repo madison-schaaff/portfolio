@@ -72,8 +72,12 @@ To achieve less than **1.00°** roll during a 0.650 g turn, a pair of anti-roll 
 
 These improvements provide significantly better handling, higher cornering capability, and better tire loading.
 
-**Figure 2. Suspension Geometry & Camber Behavior**  
-![suspension](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/suspension.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/suspension.jpg"
+       alt="Suspension Geometry and Camber Behavior"
+       width="450"/><br>
+  <em><strong>Figure 2.</strong> Suspension Geometry & Camber Behavior</em>
+</p>
 
 ---
 
@@ -106,9 +110,12 @@ I optimized gear ratios using traction limits, top-speed requirements, and progr
 
 A special case was solved for **front-wheel drive**, yielding an ideal 1st-gear ratio of **3.90**.
 
-**Figure 3. Sawtooth Plot for 6-Speed Transmission**  
-![sawtooth](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/sawtooth.jpg)
-
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/sawtooth.jpg"
+       alt="Sawtooth Plot for 6-Speed Transmission"
+       width="450"/><br>
+  <em><strong>Figure 3.</strong> Sawtooth Plot for 6-Speed Transmission</em>
+</p>
 ---
 
 ### My Contribution
