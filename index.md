@@ -17,7 +17,6 @@ Looking ahead, I’m driven by the challenge of advancing next-generation aerosp
 I thrive in collaborative, fast-paced environments where curiosity, iteration, and problem-solving are essential. I’m excited to continue growing as an engineer and to contribute to technologies that push the boundaries of flight and exploration!
 
 **Relevant Coursework (Undergraduate)**
-
 | | |
 |---|---|
 | - Propulsion of Aircraft & Rockets | - Introduction to Aeronautics |
