@@ -9,8 +9,12 @@ image: /assets/images/bladee.jpg
 ### Project Overview
 As part of MAE 4272, our team was tasked with designing and experimentally validating a custom wind-turbine blade capable of outperforming the baseline blade geometry tested earlier in the course. The project required producing a blade optimized for **low-Reynolds-number operation**, where aerodynamic performance is highly sensitive to airfoil shape and angle-of-attack control. Our design had to increase power output near a target operating speed of ~1880 RPM while remaining structurally reliable, manufacturable, and fully compatible with the existing hub and wind-tunnel setup. This work combined aerodynamic modeling, structural considerations, CAD design, and hands-on testing (see **Figure 1** for the wind-tunnel configuration).
 
-**Figure 1. Wind Tunnel Test Setup with Custom Blade Installed**  
-![Wind Tunnel Photo](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/testing.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/testing.jpg"
+       alt="Wind Tunnel Test Setup with Custom Blade Installed"
+       width="450"/><br>
+  <em><strong>Figure 1.</strong> Wind Tunnel Test Setup with Custom Blade Installed</em>
+</p>
 
 
 ### Design Process
@@ -20,16 +24,23 @@ Using **Blade Element Momentum Theory (BEMT)**, we computed inflow angle, relati
 
 **My primary contribution was creating the complete CAD model**, including the custom airfoil profile, full blade geometry, and the hub/attachment interface. This required integrating aerodynamic design outputs with manufacturability constraints and refining the taper and twist distributions into a smooth, printable solid model. The final blade CAD is shown in **Figure 2**, highlighting the aerodynamic planform and root geometry used for attachment.
 
-**Figure 2. CAD Model of Final Blade**  
-![CAD Model](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/cad.jpg)
-
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/cad.jpg"
+       alt="CAD Model of Final Blade"
+       width="450"/><br>
+  <em><strong>Figure 2.</strong> CAD Model of Final Blade</em>
+</p>
 ### Testing Summary
 The manufactured blade was tested in the MAE wind tunnel across wind speeds of 3–6 m/s using the Lab-4 DAQ system and a torque brake to impose controlled load. During testing, I operated the torque brake, manually adjusting its voltage to sweep through the operating range and recording the corresponding torque and RPM values at each setting. These measurements formed the basis for constructing the blade’s power curve.
 
 As seen in **Figure 3**, the custom blade achieved a high peak power at all wind speeds, consistent with model predictions, which out performed our baseline design. However, the blade exhibited some **startup sensitivity and occasional stall at low Reynolds numbers**, a known challenge when aerodynamic loading is light and the flow is not fully developed. Despite these limitations, structural performance was stable with no observed vibrations, deformation, or mechanical issues during testing.
 
-**Figure 3. Measured Power Curve Compared to Design Point**  
-![Power Curve](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/powercurve.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/powercurve.jpg"
+       alt="Measured Power Curve Compared to Design Point"
+       width="450"/><br>
+  <em><strong>Figure 3.</strong> Measured Power Curve Compared to Design Point</em>
+</p>
 
 ### My Contribution
 Across the project, I was responsible for:
