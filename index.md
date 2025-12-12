@@ -30,10 +30,10 @@ I thrive in collaborative, fast-paced environments where curiosity, iteration, a
 | - Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations) | |
 
 **Relevant Coursework (Graduate, to be taken SP2026)**
-- Spacecraft Technology & Systems
-- Intermediate Fluids Dynamics with CFD
-- Combustion Processes
-- Space Structures
 - Plasmas for Propulsion
+- Combustion Processes
+- Spacecraft Technology & Systems
+- Space Structures
+- Intermediate Fluid Dynamics with CFD
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>!
