@@ -61,11 +61,20 @@ These skills directly translate to more advanced product development and mechani
 ### Renderings
 Below is a rendering of the completed assembly, showcasing the pump, internal tube, and detailed bottle geometry:
 
-**Figure 1. Final Perfume Bottle CAD Model - Front View**  
-![Perfume Render](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/perfume3.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/perfume3.jpg"
+       alt="Final Perfume Bottle CAD Model – Front View"
+       width="450"/><br>
+  <em><strong>Figure 1.</strong> Final Perfume Bottle CAD Model – Front View</em>
+</p>
 
-**Figure 2. Final Perfume Bottle CAD Model - Bottom View**  
-![Perfume Render](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/perfume1.jpg)
+<p align="center">
+  <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/perfume1.jpg"
+       alt="Final Perfume Bottle CAD Model – Bottom View"
+       width="450"/><br>
+  <em><strong>Figure 2.</strong> Final Perfume Bottle CAD Model – Bottom View</em>
+</p>
+
 
 ---
 
