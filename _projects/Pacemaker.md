@@ -30,7 +30,7 @@ The second approach provided clearer analytical results and aligned more directl
 - Error dynamics  
 
 **Figure 1. Pacemaker–Heart Block Diagram**  
-![block](/assets/images/block.jpg)
+![block](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/block.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ Once the block diagram was finalized, we derived the Laplace-domain transfer fun
 We computed closed-loop error equations for all three controllers. Through symbolic manipulation and hand calculations, supported by MATLAB, we evaluated how each controller handled disturbances.
 
 **Figure 2. Transfer Function and Controller Error Calculations using Final Value Theorem**  
-![FVT](/assets/images/FVT.jpg)
+![FVT](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/FVT.jpg)
 
 ---
 
@@ -59,8 +59,8 @@ The simulations confirmed the core findings derived from the Final Value Theorem
 
 Given the biological complexity of heart signals, derivative terms can amplify noise and cause instability, making PI control the most practical and robust choice.
 
-**Figure 6. Error Response for PD, PI, and PID Controllers**  
-![error](/assets/images/error.jpg)
+**Figure 3. Error Response for PD, PI, and PID Controllers**  
+![error](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/error.jpg)
 
 ---
 
