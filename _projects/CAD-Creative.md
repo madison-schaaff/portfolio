@@ -65,7 +65,7 @@ Below is a rendering of the completed assembly, showcasing the pump, internal tu
 ![Perfume Render](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/perfume3.jpg)
 
 **Figure 2. Final Perfume Bottle CAD Model - Bottom View**  
-![Perfume Render](/assets/images/perfume1.jpg)
+![Perfume Render](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/perfume1.jpg)
 
 ---
 
