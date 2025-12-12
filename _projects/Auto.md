@@ -45,7 +45,7 @@ Two configurations were evaluated:
 The intercooled configuration provides the highest performance margin and best thermal control, while the non-intercooled option offers strong gains at lower cost.
 
 **Figure 1. Intercooled Turbocharger and Base Engine Power Curve**  
-![carcurve](/assets/images/carcurve.jpg)
+![carcurve](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/carcurve.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ To achieve less than **1.00°** roll during a 0.650 g turn, a pair of anti-roll 
 These improvements provide significantly better handling, higher cornering capability, and better tire loading.
 
 **Figure 2. Suspension Geometry & Camber Behavior**  
-![suspension](/assets/images/suspension.jpg)
+![suspension](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/suspension.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ I optimized gear ratios using traction limits, top-speed requirements, and progr
 A special case was solved for **front-wheel drive**, yielding an ideal 1st-gear ratio of **3.90**.
 
 **Figure 3. Sawtooth Plot for 6-Speed Transmission**  
-![sawtooth](/assets/images/sawtooth.jpg)
+![sawtooth](https://github.com/madison-schaaff/portfolio/raw/main/assets/images/sawtooth.jpg)
 
 ---
 
