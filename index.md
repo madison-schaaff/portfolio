@@ -19,9 +19,7 @@ I thrive in collaborative, fast-paced environments where curiosity, iteration, a
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>!
 
 ---
-**Relevant Coursework (Undergraduate)**
-
-| | |
+| **Relevant Coursework (Undergraduate)**| |
 |---|---|
 | - Propulsion of Aircraft & Rockets | - Introduction to Aeronautics |
 | - Fluid Mechanics | - Heat Transfer |
