@@ -28,7 +28,7 @@ Below are the three rough prototypes I built using inexpensive materials such as
 <p align="center">
   <img src="https://github.com/madison-schaaff/portfolio/raw/main/assets/images/p2.jpg"
        alt="Prototype B — Sliding Box & Coil Mechanism (Selected for Development)"
-       width="350"/><br>
+       width="450"/><br>
   <em><strong>Figure 2.</strong> Prototype B — Sliding Box & Coil Mechanism (Selected for Development)</em>
 </p>
 
