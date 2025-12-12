@@ -16,6 +16,9 @@ Looking ahead, I’m driven by the challenge of advancing next-generation aerosp
 
 I thrive in collaborative, fast-paced environments where curiosity, iteration, and problem-solving are essential. I’m excited to continue growing as an engineer and to contribute to technologies that push the boundaries of flight and exploration!
 
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>!
+
+---
 **Relevant Coursework (Undergraduate)**
 
 | | |
@@ -38,5 +41,3 @@ I thrive in collaborative, fast-paced environments where curiosity, iteration, a
 - Spacecraft Technology & Systems
 - Space Structures
 - Intermediate Fluid Dynamics with CFD
-
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>!
