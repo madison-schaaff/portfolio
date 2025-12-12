@@ -199,3 +199,13 @@ footer {
   color: #3a3f58;
   transform: translateX(-4px);
 }
+table {
+  width: auto !important;         /* prevents table from stretching full width */
+  margin: 0 auto;                 /* centers the table */
+}
+
+table td, table th {
+  padding-right: 10px;           /* decrease spacing between columns */
+  padding-left: 10px;
+  white-space: nowrap;           /* keeps columns from expanding */
+}
