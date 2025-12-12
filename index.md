@@ -29,7 +29,7 @@ Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <
 | - Statics & Mechanics of Solids | - Thermodynamics |
 | - Dynamics | - Mechanical Synthesis |
 | - Automotive Engineering | - Electric Drive Vehicles |
-| - Physics Sequence (Mechanics & Heat, Electromagnetism, Oscillations, Waves, & Quantum Physics) | 
+| - Physics Sequence (Mechanics & Heat, Electromagnetism, Waves & Quantum Physics) | 
 | - Math Sequence (Calculus, Multivariable Calculus, Linear Algebra, Differential Equations) | 
 
 ---
